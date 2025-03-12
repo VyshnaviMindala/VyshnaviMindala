@@ -8,7 +8,7 @@
     <li>🎓 Bachelor of Technology in Computer Science from QIS College of Engineering and Technology</li>
     <li>💻 Full-time Software Engineer at Unisys </li>
     <li>📈 Certified in Machine Learning, Data Science, and Python</li>
-    <li>🌱 Currently exploring opportunities in Data Science, Machine Learning, and AI</li>
+    <li>🌱 Currently exploring opportunities in Data Analysis, Machine Learning, and AI</li>
   </ul>
 </div>
 
